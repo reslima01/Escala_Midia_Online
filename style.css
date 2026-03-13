@@ -1,0 +1,17 @@
+
+body{
+font-family:Arial;
+background:#6e8d7c;
+display:flex;
+justify-content:center;
+align-items:center;
+height:100vh;
+}
+
+.container{
+background:#344955;
+padding:30px;
+border-radius:10px;
+color:white;
+width:500px;
+}
